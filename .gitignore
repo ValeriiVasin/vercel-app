@@ -1,2 +1,5 @@
 dist
 .cache
+*.tsbuildinfo
+
+.vercel
